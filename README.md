@@ -63,6 +63,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - email@example.com
-
-Project Link: [https://discord.gg/dfwFaGM88Y](https://discord.gg/dfwFaGM88Y)
+Come through the Discord, we chilling: [https://discord.gg/dfwFaGM88Y](https://discord.gg/dfwFaGM88Y)
