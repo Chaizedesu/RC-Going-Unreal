@@ -37,7 +37,7 @@ To be able to open and use the framework you're going to need Unreal Engine 4.27
  
 ## Usage
 
-Assuming that you have everything Installed you just Double Click I5.exe.
+Assuming that you have everything Installed you just Double Click I5.exe. (More documentation will come chill)
 
 
 ## Features
