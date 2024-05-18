@@ -1,52 +1,51 @@
-# Project Name
+# Ratchet & Clank: Going Unreal
 
-A brief description of what this project does and who it's for.
+Ratchet & Clank: Going Unreal is a Fan game/Framework made inside of Unreal Engine 4. It's still pretty much in an early state but due to popular demand and other plans i've decided to make it open source. This framework is intended to be a replication (Keep in mind i said Replication and not duplication so things might be a little different for multiple reasons) of Ratchet's core movement mechanic from Going Commando. You'll be able to do things like, customize the code to your liking (If you're experienced with Unreal), create your own levels, make new weapons etc... Endless possibilities. 
 
-## Table of Contents
+Keep in mind there's a lack of UI as i don't like to work with UI but now that it's open source you guys can make your own ;). 
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/project-name.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd project-name
-    ```
-3. Install the dependencies:
-    ```sh
-    npm install
-    ```
-    or
-    ```sh
-    pip install -r requirements.txt
-    ```
+To be able to open and use the framework you're going to need Unreal Engine 4.27 and some plugins.
 
+ The Plugins being:
+
+-NinjaCharacter
+
+-DynamicGravityCharacter
+
+-PythonScriptPlugin
+
+-EditorScriptingUtilities
+
+-AutoSizeComments
+
+-CPathfinding
+
+-FlatNodes
+
+-LiveBlueprintDebugger
+
+-RecentBlueprintMenu
+
+
+
+ Most of the plugins are not even being used and there might be a couple of plugins that i missed but it will tell you when you try to Open the Project.
+
+ 
 ## Usage
 
-1. Run the application:
-    ```sh
-    npm start
-    ```
-    or
-    ```sh
-    python main.py
-    ```
-2. Open your web browser and go to `http://localhost:3000` (or the port specified).
+Assuming that you have everything Installed you just Double Click I5.exe.
+
 
 ## Features
 
-- **Feature 1**: Brief description of the feature.
-- **Feature 2**: Brief description of the feature.
-- **Feature 3**: Brief description of the feature.
+- **Feature 1**: Ratchet's Moveset and Abilities .
+- **Feature 2**: Ratchet's Weapon Arsenal.
+- **Feature 3**: Ratchet's Camera System (Somewhat).
+- **Feature 4**: The ability to change the Source code i guess.
 
 ## Contributing
 
@@ -66,4 +65,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - email@example.com
 
-Project Link: [https://github.com/your-username/project-name](https://github.com/your-username/project-name)
+Project Link: [https://discord.gg/dfwFaGM88Y](https://discord.gg/dfwFaGM88Y)
