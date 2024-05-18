@@ -37,7 +37,7 @@ To be able to open and use the framework you're going to need Unreal Engine 4.27
  
 ## Usage
 
-Assuming that you have everything Installed you just Double Click I5.exe. (More documentation will come chill)
+Assuming that you have everything Installed you just Double Click I5.exe. (More documentation will come. chill)
 
 
 ## Features
@@ -56,6 +56,8 @@ Contributions are what make the open source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+If you want your own Version and receive updates of the Framework you just need to Fork the project then Sync Fork when there's an updated Version.
 
 ## License
 
