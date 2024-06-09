@@ -50,7 +50,7 @@ Assuming that you have everything Installed you just Double Click I5.exe. (More 
 - SDK Platforms (API Level 29 and API Level 21)
 - Android SDK Command-line tools (latest)
 - CMake
-- Android SDK Platform-Tools (I've used 35.0.1)
+- Android SDK Platform-Tools (I've used 35.0.1, also  rename d8.jar and d8.bat files to dx.jar and d8.bat in in ...SDK\build-tools\YOUR_VERSION and ...SDK\build-tools\YOUR_VERSION\lib)
 - Java 8 (temurin-1.8)
 3. Download the [NDK](https://github.com/android/ndk/wiki/Unsupported-Downloads) in Version 21 and unzip it somewhere. Note the path.
 4. Open the project in UE and go to Edit -> Project Settings
