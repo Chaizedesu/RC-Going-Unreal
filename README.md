@@ -41,6 +41,24 @@ To be able to open and use the framework you're going to need Unreal Engine 4.27
 
 Assuming that you have everything Installed you just Double Click I5.exe. (More documentation will come. chill)
 
+### Set up project to run on Android:
+
+#### Setup 
+
+1. Install [Android Studio](https://developer.android.com/studio/install)
+2. Use Android Studio to Install the following and note the installation paths! (After some testing only these versions seem to work with UE 4.27):
+- SDK Platforms (API Level 29 and API Level 21)
+- Android SDK Command-line tools (latest)
+- CMake
+- Android SDK Platform-Tools (I've used 35.0.1, also  rename d8.jar and d8.bat files to dx.jar and dx.bat in ...SDK\build-tools\YOUR_VERSION and ...SDK\build-tools\YOUR_VERSION\lib)
+- Java 8 (temurin-1.8)
+3. Download the [NDK](https://github.com/android/ndk/wiki/Unsupported-Downloads) in Version 21 and unzip it somewhere. Note the path.
+4. Open the project in UE and go to Edit -> Project Settings
+5. On the left panel scrol down to Platforms, there perform steps 1, 3, 4 from this [quickstart](https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/Mobile/Android/GettingStarted/)
+6. Then go to to the Platforms-> Android SDK section of the left panel. Configure the SDKConfig so that the SDK, NDK, Java location from the steps above are used. For SDK API Level enter "match NDK" and for NDK Api Level use "android-21".
+7. Follow the steps 5 or 6 from the [quickstart](https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/Mobile/Android/GettingStarted/)
+
+You may encounter problems when you have special characters or whitespaces in your directories, so just avoid them.
 
 ## Features
 
