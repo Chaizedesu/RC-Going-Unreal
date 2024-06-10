@@ -46,7 +46,7 @@ Assuming that you have everything Installed you just Double Click I5.exe. (More 
 #### Setup 
 
 1. Install [Android Studio](https://developer.android.com/studio/install)
-2. Use Android Studio to Install the following and note the installation paths! (After some testing only these Versions seem to work with UE 4.27):
+2. Use Android Studio to Install the following and note the installation paths! (After some testing only these versions seem to work with UE 4.27):
 - SDK Platforms (API Level 29 and API Level 21)
 - Android SDK Command-line tools (latest)
 - CMake
